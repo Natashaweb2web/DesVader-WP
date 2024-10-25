@@ -1,5 +1,3 @@
-
-
 <footer>
     <div class="footer-container p-50 column center gap">
       <div class="logo ">
